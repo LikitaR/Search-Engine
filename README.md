@@ -15,17 +15,10 @@ User can enter their mood and get corresponding songs and lyrics accordingly.
 - [Results](#results)
 
 <hr>
-
-<br>
 <br>
 
-![](./images/flowchart.png)
-
-
-<br>
-<br>
-
-
+Picked a data source that would guarantee to have all songs ever made and that it is frequently updated so that we have an updated repository as well.
+www.azlyrics.com
 
 ## Techniques Used
 [back to top](#sections)
@@ -43,8 +36,6 @@ User can enter their mood and get corresponding songs and lyrics accordingly.
 - Integration with HTML webpage as Frontend --> Flask
 
 - User Testing
-
-
 <br>
 <br>
 
@@ -67,12 +58,10 @@ The closest matching values and hence the corresponding songs are returned to th
 
 ![](./images/wordclouds.png)
 
-
 <br>
 <br>
 
 
-## Results
-[back to top](#sections)
+
 
 

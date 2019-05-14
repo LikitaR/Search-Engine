@@ -60,7 +60,9 @@ The closest matching values and hence the corresponding songs are returned to th
 
 [back to top](#sections)
 
+The search engine looks as follows:
 ![](./Picture1.png)
 
-[](./Picture2.png)
+The results displayed as below:
+![](./Picture2.png)
 <br>

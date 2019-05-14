@@ -60,7 +60,7 @@ The closest matching values and hence the corresponding songs are returned to th
 
 [back to top](#sections)
 
-[](./images/Picture1.png)
+![](./Picture1.png)
 
-[](./images/Picture2.png)
+[](./Picture2.png)
 <br>

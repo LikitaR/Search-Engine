@@ -23,7 +23,7 @@ www.azlyrics.com
 ## Techniques Used
 [back to top](#sections)
 
-- Scraping the site to get all the song and lyrics --> SiteSucker​
+- Scraping the site to get all the song and lyrics --> SiteSucker
 
 - Cleaning the data --> Spacy
 
@@ -56,12 +56,11 @@ The closest matching values and hence the corresponding songs are returned to th
 <br>
 <br>
 
-![](./images/wordclouds.png)
+## Results
 
+[back to top](#sections)
+
+![](./images/Picture1.png)
+
+![](./images/Picture2.png)
 <br>
-<br>
-
-
-
-
-
